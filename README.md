@@ -2,4 +2,4 @@
 
 What are the big unmet user needs of the web platform?
 
-Content in [Issues](issues/).
+Content in [Issues](https://github.com/w3ctag/gaps/issues).
